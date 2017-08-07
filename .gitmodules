@@ -1,0 +1,6 @@
+[submodule "homebridge"]
+	path = homebridge
+	url = https://solowalker27@github.com/nfarina/homebridge.git
+[submodule "node"]
+	path = node
+	url = https://solowalker27@github.com/nodejs/node.git
